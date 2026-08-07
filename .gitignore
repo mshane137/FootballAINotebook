@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.joblib
+*.pkl
+.cache/
+.env
+.venv/
+.vscode/
