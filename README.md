@@ -1,0 +1,1 @@
+This is my AI NFL SuperBowl Predictor. IT has taken all of the data since 2010 and processes it through my algorithm and then runs several simulations tot give a prediction as to what the superbowl winners could be. 
